@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Dispute a finding
+    url: https://blackhullsystems.com/disputes
+    about: A token or service check result you believe is wrong. Free, and every outcome is public.
+  - name: Report a security issue
+    url: https://blackhull.systems/.well-known/security.txt
+    about: Please report vulnerabilities privately, never in a public issue.
+  - name: Documentation
+    url: https://blackhullsystems.com/docs
+    about: Products, prices, finding codes and errors.
